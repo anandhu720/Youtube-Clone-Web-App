@@ -1,0 +1,38 @@
+@import '../../base.scss';
+
+
+.login{
+    height:100vh;
+    display:grid;
+
+    &_container{
+        background-color: $black-secondary;
+        padding:2rem;
+        margin: 0.1rem;
+        border-radius:10px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        button{
+            padding:0.5rem;
+            border:none;
+            border-radius:5px;
+            margin-bottom:1rem;
+            &:focus{
+                outline: none;
+            }
+            &:hover{
+                color: #fff;
+                background-color:$border-color;
+            }
+        }
+    }
+
+    place-items: center;
+    img{
+        width:500px;
+        height:500px;
+        object-fit:contain;
+    }
+}
