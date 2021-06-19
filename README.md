@@ -2,7 +2,7 @@
 
 Youtube clone web-app created using ReactJs, Firebase and Redux.
 
-- Completely functionable Web APp
+- Completely functionable Web App
 - ✨Build while studying ReactJs
 - Data using Youtube API
 
