@@ -34,7 +34,7 @@ It is a very basic app.
 - ReactJS
 - Firebase
 - Redux
-- Youtube Api
+- Youtube API
 
 ## Installation
 
